@@ -1,5 +1,5 @@
 function Home() {
-    return <div> Página Teste</div>
+    return <div>CKM - Cloud Kitchen Manager 1.0</div>
 }
 
 export default Home
